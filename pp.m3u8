@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:7
+## Just In Time Delivered by Quortex Solution, version 2.13.1
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/pp/sixplayhde/hls_short_fp10_pp/NA/vZNA6hM/index.m3u8"
